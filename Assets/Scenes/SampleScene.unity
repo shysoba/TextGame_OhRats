@@ -1086,7 +1086,7 @@ MonoBehaviour:
   Scene33: {fileID: 1018392891}
   Scene34: {fileID: 1757293347}
   Scene34_1: {fileID: 953688507}
-  Scene35: {fileID: 0}
+  Scene35: {fileID: 111339686}
   BADENDING1: {fileID: 326225344}
   BADENDING2: {fileID: 1056052508}
   BADENDING3: {fileID: 690118367}
@@ -24421,7 +24421,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 48205609}
         m_TargetAssemblyTypeName: TextGame_Manager, Assembly-CSharp
-        m_MethodName: Scene32Option1
+        m_MethodName: Scene35Option1
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

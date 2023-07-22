@@ -1,11 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
+// using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using TMPro;
-using static Unity.Collections.AllocatorManager;
-using UnityEditor.SearchService;
+// using static Unity.Collections.AllocatorManager;
+// using UnityEditor.SearchService;
 
 public class TextGame_Manager : MonoBehaviour
 {
@@ -175,7 +175,7 @@ public class TextGame_Manager : MonoBehaviour
     public void Scene14Option1()
     {
         intValue -= 3;
-        couValue += 1;
+        couValue += 2;
         advValue += 2;
         Scene14.SetActive(false);
         Scene15_1.SetActive(true);
